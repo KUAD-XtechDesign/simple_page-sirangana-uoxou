@@ -54,7 +54,7 @@ h2.title{
 ul.history_list li{
   list-style: none;
   display: flex;
-  border-bottom: 1px dotted #ccc;/* 下線の点線 */
+  border-bottom: 1px dotted #ffc0f6;/* 下線の点線 */
   margin-bottom: 1em;
   padding-bottom: 0.2em;
 }
