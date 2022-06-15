@@ -2,7 +2,7 @@ body{
   font-family: "Helvetica Neue",Arial,"Hiragino Kaku Gothic ProN","Hiragino Sans",Meiryo,sans-serif;
   margin: 0;
   padding: 20px;
-  background-color: rgb(165, 116, 225);
+  background-color: #a573e1;
   line-height: 1.8;
 }
 
@@ -21,10 +21,10 @@ img{
 .wrapper{
   max-width: 600px;
   margin: 0 auto;
-  background-color: rgb(112, 150, 203);
+  background-color: r#7a96cb;
   padding: 10px;
   border-radius: 5px;
-  box-shadow: 0 0 10px 0px rgba(0,0,0,0.2);
+  box-shadow: 0 0 10px 0px #000000;
 }
 
 #namecard{
